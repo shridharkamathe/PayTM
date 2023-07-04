@@ -1,6 +1,8 @@
 # PayTM Company Analysis and Strategies
 
 This repository contains a presentation that provides a comprehensive analysis of PayTM as a company, including the reasons behind its losses, and suggests steps to cover those losses and improve profitability. The presentation covers various aspects of PayTM's business, including its timeline, company details, products and services, revenue model, market position, competitors, and future scope.
+![1639398497707](https://github.com/shridharkamathe/Titanic/assets/124047047/521d2e25-3fe2-4ccb-8fc8-290255eccd17)
+
 
 ## Presentation Structure
 

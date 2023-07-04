@@ -11,24 +11,25 @@ The presentation is structured as follows:
 1. **Introduction:** An introduction to PayTM, highlighting its significance and impact in the digital payments and e-commerce industry.
 
 2. **Timeline Trajectory:** A timeline showcasing the major milestones and key events in the history of PayTM, highlighting its growth and evolution.
+<img width="659" alt="Screenshot 2023-07-04 at 1 11 42 PM" src="https://github.com/shridharkamathe/Titanic/assets/124047047/983a697e-1ae2-4999-8266-50cd573c0376">
 
-3. **Company Details:** An overview of PayTM's background, its founding members, headquarters location, and other relevant details.
+4. **Company Details:** An overview of PayTM's background, its founding members, headquarters location, and other relevant details.
 
-4. **PayTM Investors:** Information about the investors who have supported and funded PayTM's growth, contributing to its success.
+5. **PayTM Investors:** Information about the investors who have supported and funded PayTM's growth, contributing to its success.
 
-5. **Products and Services:** An overview of the various products and services offered by PayTM, including digital payments, mobile wallets, e-commerce, and financial services.
+6. **Products and Services:** An overview of the various products and services offered by PayTM, including digital payments, mobile wallets, e-commerce, and financial services.
 
-6. **How PayTM Works:** An explanation of the functioning and operational model of PayTM, including the underlying technology and user experience.
+7. **How PayTM Works:** An explanation of the functioning and operational model of PayTM, including the underlying technology and user experience.
 
-7. **Revenue Model:** Insights into PayTM's revenue generation strategies, such as transaction fees, commissions, advertising, and value-added services.
+8. **Revenue Model:** Insights into PayTM's revenue generation strategies, such as transaction fees, commissions, advertising, and value-added services.
 
-8. **PayTM Growth:** An analysis of PayTM's growth trajectory, highlighting its expansion into different market segments and geographical regions.
+9. **PayTM Growth:** An analysis of PayTM's growth trajectory, highlighting its expansion into different market segments and geographical regions.
 
-9. **PayTM in Media:** Coverage of PayTM in the media, including news articles, press releases, and public perception of the company.
+10. **PayTM in Media:** Coverage of PayTM in the media, including news articles, press releases, and public perception of the company.
 
-10. **Customer Demographics:** An examination of PayTM's customer base, including their demographics, preferences, and behavior patterns.
+11. **Customer Demographics:** An examination of PayTM's customer base, including their demographics, preferences, and behavior patterns.
 
-11. **Competitors:** Identification and analysis of PayTM's main competitors in the digital payments and e-commerce industry, assessing their strengths and weaknesses.
+12. **Competitors:** Identification and analysis of PayTM's main competitors in the digital payments and e-commerce industry, assessing their strengths and weaknesses.
 <img width="778" alt="Screenshot 2023-07-04 at 1 03 38 PM" src="https://github.com/shridharkamathe/Titanic/assets/124047047/94993a01-b9a2-423e-8275-886be9656109">
 
 13. **Market Position:** An evaluation of PayTM's market position, considering factors such as market share, brand recognition, and customer loyalty.

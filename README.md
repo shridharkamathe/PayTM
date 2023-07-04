@@ -29,20 +29,27 @@ The presentation is structured as follows:
 10. **Customer Demographics:** An examination of PayTM's customer base, including their demographics, preferences, and behavior patterns.
 
 11. **Competitors:** Identification and analysis of PayTM's main competitors in the digital payments and e-commerce industry, assessing their strengths and weaknesses.
+<img width="778" alt="Screenshot 2023-07-04 at 1 03 38 PM" src="https://github.com/shridharkamathe/Titanic/assets/124047047/94993a01-b9a2-423e-8275-886be9656109">
 
-12. **Market Position:** An evaluation of PayTM's market position, considering factors such as market share, brand recognition, and customer loyalty.
+13. **Market Position:** An evaluation of PayTM's market position, considering factors such as market share, brand recognition, and customer loyalty.
 
-13. **PayTM Losses:** A deep dive into the reasons behind PayTM's losses, including financial challenges, competitive pressures, regulatory issues, and other internal and external factors.
+14. **PayTM Losses:** A deep dive into the reasons behind PayTM's losses, including financial challenges, competitive pressures, regulatory issues, and other internal and external factors.
 
-14. **Challenges Faced by PayTM:** A discussion on the challenges and obstacles faced by PayTM in its journey, and their impact on the company's financial performance.
+15. **Challenges Faced by PayTM:** A discussion on the challenges and obstacles faced by PayTM in its journey, and their impact on the company's financial performance.
 
-15. **SWOT Analysis:** A SWOT (Strengths, Weaknesses, Opportunities, Threats) analysis of PayTM, highlighting its internal strengths and weaknesses, as well as external opportunities and threats.
+16. **SWOT Analysis:** A SWOT (Strengths, Weaknesses, Opportunities, Threats) analysis of PayTM, highlighting its internal strengths and weaknesses, as well as external opportunities and threats.
+<img width="717" alt="Screenshot 2023-07-04 at 1 02 31 PM" src="https://github.com/shridharkamathe/Titanic/assets/124047047/3f9784f9-84ce-4639-8b09-faf2adf6eaec">
 
-16. **Future Scope:** Exploration of the potential growth opportunities and future prospects for PayTM, considering emerging trends, technological advancements, and market dynamics.
+18. **Future Scope:** Exploration of the potential growth opportunities and future prospects for PayTM, considering emerging trends, technological advancements, and market dynamics.
 
-17. **Approach to Profitability:** Suggestions and strategies for improving PayTM's profitability, including diversification, cost optimization, product innovation, strategic partnerships, and customer retention initiatives.
+19. **Approach to Profitability:** Suggestions and strategies for improving PayTM's profitability, including diversification, cost optimization, product innovation, strategic partnerships, and customer retention initiatives.
+<img width="820" alt="Screenshot 2023-07-04 at 12 43 00 PM" src="https://github.com/shridharkamathe/Titanic/assets/124047047/aea3fc57-39f6-4cf4-8338-8f276660ba8b">
+<img width="975" alt="Screenshot 2023-07-04 at 1 02 04 PM" src="https://github.com/shridharkamathe/Titanic/assets/124047047/5a517482-39c9-45ec-a022-aa7c928dafb3">
 
-18. **Conclusion:** A summary of the key findings and recommendations discussed in the presentation, emphasizing the potential for PayTM to overcome its challenges and achieve sustainable profitability.
+
+21. **Conclusion:** A summary of the key findings and recommendations discussed in the presentation, emphasizing the potential for PayTM to overcome its challenges and achieve sustainable profitability.
+<img width="990" alt="Screenshot 2023-07-04 at 1 04 16 PM" src="https://github.com/shridharkamathe/Titanic/assets/124047047/5388de89-b7fd-440d-a5cc-09d8c75f3fc8">
+
 
 ## Repository Structure
 
@@ -51,6 +58,11 @@ The repository is structured as follows:
 - **PayTM_project-1.pptx:** The PowerPoint presentation file containing the analysis and strategies for PayTM.
 
 - **README.md:** This file, providing an overview of the repository and its contents.
+
+
+## Challenges Faced
+
+The most challenging aspect of the project was the process of gathering detailed information about PayTM's financials and overall business model. PayTM is a prominent financial technology company offering digital payment solutions, e-commerce services, and financial products. Understanding the intricacies of their financial statements, revenue streams, and cost structures required extensive research and analysis. Moreover, formulating a viable strategy to enhance profitability proved to be a complex task, considering the dynamic nature of the fintech industry and the competitive landscape. Overcoming these challenges demanded diligent investigation, careful consideration of market trends, and the ability to identify innovative opportunities within PayTM's existing operations to drive sustainable growth and profitability.
 
 ## Usage
 
